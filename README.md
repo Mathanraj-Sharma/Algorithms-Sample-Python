@@ -1,1 +1,1 @@
-# Algorithms-Sample-Python
+# Algorithms-Samples-Python
